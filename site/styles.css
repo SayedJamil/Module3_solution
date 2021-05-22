@@ -5,12 +5,15 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	border-color: #000;
+	border-width: 2px;
+	background-color: #8D8D8D;
 }
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  font-family: 'Bebas Neue', cursive;
+  color: #000;
   padding-left: 25px;
 }
 
@@ -43,10 +46,10 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: rgb(174,0,0);
   font-size: 50px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:bolder ;
 }
 
 li{
@@ -81,7 +84,7 @@ li{
 	height: auto;
 	color: black;
 	background-color: rgba(0,0,0,0.2);
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: 'Noto Sans JP', sans-serif;
 	padding: 20px;
 }
 
@@ -94,3 +97,4 @@ li{
 #top{
 
 }
+
